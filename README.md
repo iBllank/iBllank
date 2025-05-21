@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Ahmed
-- 📫 Reach me through email [iseal.net@gmail.com]
+- 👋 Hi, I’m Ahmed Hassan!
+- 📫 Reach me through email [dev.ahmedxhassan@gmail.com]
 
 <!---
 iBllank/iBllank is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
